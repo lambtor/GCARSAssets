@@ -32,10 +32,10 @@ body {
 	padding-left: calc(5.1vw);
 	padding-bottom: calc(2.73vh);
 	padding-top: calc(2.73vh);
-	padding-right: calc(5.1vw);
+	padding-right: calc(0vw);
 	left: calc(15vw);
 	top: calc(9.3vh);	
-	width: calc(89vw);
+	width: calc(79vw);
 	height: calc(11.25vh);
 	position: absolute;
 	background-color: #000000;
@@ -69,7 +69,11 @@ body {
 	top: calc(31.5vh);
 	position: absolute;
 	background-color: #000000;
-	width: calc(89vw);
+	padding-left: calc(5.1vw);
+	padding-bottom: calc(2.73vh);
+	padding-top: calc(2.73vh);
+	padding-right: calc(0vw);
+	width: calc(79vw);
 	height: calc(69vh);
 	border-top-left-radius: calc(2.125vw);
 }
