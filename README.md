@@ -14,6 +14,6 @@ Other widely used fonts in Star Trek include Microgrammma, which has been used f
 https://fontsgeek.com/fonts/MicrogrammaEF-Extend-Bold
 
 Other options for this include:
-Alfphabet IV
-https://fontlibrary.org/en/font/alfphabet
+Alfphabet IV <br>
+https://fontlibrary.org/en/font/alfphabet <br>
 	-Free and open source
