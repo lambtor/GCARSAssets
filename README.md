@@ -1,13 +1,13 @@
 # LCARSAssets
-Fonts, CSS, colors for replicating an LCARS interface with html
-
-The most accurate font for LCARS is Swiss911 Ultra Compressed BT.  While many places online have this available for free download, and it seems to be free to use for personal use, it is not necessarily open source.
-
-Other options include:
-Okuda	
-	-Free for personal use, not necessarily open source
-ASPHALTIC GRAIN CONDENSED
-	-Free for personal use, not necessarily open source
+Fonts, CSS, colors for replicating an LCARS interface with html<br>
+<br>
+The most accurate font for LCARS is Swiss911 Ultra Compressed BT.  While many places online have this available for free download, and it seems to be free to use for personal use, it is not necessarily open source.<br>
+<br>
+Other options include:<br>
+Okuda	<br>
+	-Free for personal use, not necessarily open source<br>
+ASPHALTIC GRAIN CONDENSED<br>
+	-Free for personal use, not necessarily open source<br><br>
 
 	
 Other widely used fonts in Star Trek include Microgrammma, which has been used for starship registry name & number, tricorder function labels.  This font is also free to download in multiple places around the internet, but is not open source, and is not free for commercial use.
