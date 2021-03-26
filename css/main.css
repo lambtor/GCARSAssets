@@ -256,3 +256,138 @@ body {
 	background-color: #9F928C;
 	color: #000000;
 }
+
+.raWhite {
+	color: #DEDEDE;
+}
+
+.baseRaWhite {
+	background-color: #DEDEDE;
+	color: #000000;
+}
+
+.raRed1 {
+	color: #FE0000;
+}
+
+.baseRaRed1 {
+	background-color: #FE0000;
+	color: #000000;
+}
+
+.raRed2 {
+	color: #990000;
+}
+
+.baseRaRed2 {
+	background-color: #990000;
+	color: #000000;
+}
+
+.raYellow {
+	color: #FFFFBD;
+}
+
+.baseRaYellow {
+	background-color: #FFFFBD;
+	color: #000000;
+}
+
+.ds9Purple {
+	color: #BAA3CD;
+}
+
+.baseDs9Purple {
+	background-color: #BAA3CD;
+	color: #000000;
+}
+
+.ds9Tan {
+	color: #D49E82;
+}
+
+.baseDs9Tan {
+	background-color: #D49E82;
+	color: #000000;
+}
+
+.ds9DeepPurple {
+	color: #7C516F;
+}
+
+.baseDs9DeepPurple {
+	background-color: #7C516F;
+	color: #000000;
+}
+
+.ds9Orange {
+	color: #EC943A;
+}
+
+.baseDs9Orange {
+	background-color: #EC943A;
+	color: #000000;
+}
+
+.ds9Brown {
+	color: #C57C69;
+}
+
+.baseDs9Brown {
+	background-color: #C57C69;
+	color: #000000;
+}
+
+.voyBlue {
+	color: #99CCFF;
+}
+
+.baseVoyBlue {
+	background-color: #99CCFF;
+	color: #000000;
+}
+
+.voyGrey {
+	color: #7A86A0;
+}
+
+.voyGray {
+	color: #7A86A0;
+}
+
+.baseVoyGray {
+	background-color: #7A86A0;
+	color: #000000;
+}
+
+.baseVoyGrey {
+	background-color: #7A86A0;
+	color: #000000;
+}
+
+.voyGreen {
+	color: #C3DCC7;
+}
+
+.baseVoyGreen {
+	background-color: #C3DCC7;
+	color: #000000;
+}
+/* */
+.voyPurple {
+	color: #CC6699;
+}
+
+.baseVoyPurple {
+	background-color: #CC6699;
+	color: #000000;
+}
+
+.voyYellow {
+	color: #FFCC66;
+}
+
+.baseVoyYellow {
+	background-color: #FFCC66;
+	color: #000000;
+}
