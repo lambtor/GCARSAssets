@@ -23,4 +23,6 @@ General layout rules of thumb: <br>
 <ul>
 <li>header: take height of tallest possible characters in text (should be all uppercase), and add 1% or 1 pixel (whichever is greater) to top and bottom to get height of bar / accent </li>
 <li>header bar height * 3 or * 4 = vertical bar width. alternatively, header bar height / 3 or / 4 can also be vertical bar width.  may look bad if too thin, though.</li>
+<li>outside curve, use quarter circle created with diameter of wider of the 2 intersecting lines</li>
+<li>inside curve, use quarter circle created with diameter of thinner of the 2 intersecting lines</li>
 </ul>
