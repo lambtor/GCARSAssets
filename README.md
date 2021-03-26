@@ -25,4 +25,5 @@ General layout rules of thumb: <br>
 <li>header bar height * 3 or * 4 = vertical bar width. alternatively, header bar height / 3 or / 4 can also be vertical bar width.  may look bad if too thin, though.</li>
 <li>outside curve corner, use quarter circle created with diameter of wider of the 2 intersecting lines</li>
 <li>inside curve corner, use quarter circle created with diameter of thinner of the 2 intersecting lines</li>
+<li>button text: 1/3 the height of the text as bottom padding, 3x that value as top padding. use same ratios for left/right borders depending on which side you align text</li>
 </ul>
