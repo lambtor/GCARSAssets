@@ -22,7 +22,7 @@ https://fontlibrary.org/en/font/alfphabet <br>
 General layout rules of thumb: <br>
 <ul>
 <li>header: take height of tallest possible characters in text (should be all uppercase), and add 1% or 1 pixel (whichever is greater) to top and bottom to get height of bar / accent </li>
-<li>header bar height * 3 or * 4 = vertical bar width. alternatively, header bar height / 3 or / 4 can also be vertical bar width.  may look bad if too thin, though.</li>
+<li>horizontal bar height * 3 or * 4 = vertical bar width. alternatively, horizontal bar height / 3 or / 4 can also be vertical bar width.  may look bad if too thin, though.</li>
 <li>outside curve corner, use quarter circle created with diameter of wider of the 2 intersecting lines</li>
 <li>inside curve corner, use quarter circle created with diameter of thinner of the 2 intersecting lines</li>
 <li>button text: 1/3 the height of the text as bottom padding, 3x that value as top padding. use same ratios for left/right borders depending on which side you align text</li>
