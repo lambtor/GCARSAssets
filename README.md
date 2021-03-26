@@ -17,3 +17,10 @@ Other options for this include:
 Alfphabet IV <br>
 https://fontlibrary.org/en/font/alfphabet <br>
 	-Free and open source
+
+
+General layout rules of thumb: <br>
+<ul>
+<li>header: take height of tallest possible characters in text (should be all uppercase), and add 1% or 1 pixel (whichever is greater) to top and bottom to get height of bar / accent </li>
+<li>header bar height * 3 or * 4 = vertical bar width. alternatively, header bar height / 3 or / 4 can also be vertical bar width.  may look bad if too thin, though.</li>
+</ul>
