@@ -36,7 +36,7 @@ body {
 	left: calc(15vw);
 	top: calc(9.3vh);	
 	width: calc(79vw);
-	height: calc(11.7vh);
+	height: calc(11.3vh);
 	position: absolute;
 	background-color: #000000;
 	border-bottom-left-radius: calc(2.125vw);	
@@ -66,7 +66,7 @@ body {
 .bottomDataArea {
 	margin: 0;
 	left: calc(15vw);
-	top: calc(31.5vh);
+	top: calc(31.4vh);
 	position: absolute;
 	background-color: #000000;
 	padding-left: calc(5.1vw);
@@ -113,7 +113,7 @@ body {
 	width: calc(27.3vw);
 	height: calc(1.9vh);
 	top: calc(26vh);
-	left: calc(72.5vw);
+	left: calc(72.8vw);
 }
 .dividerBandBottomLeft {
 	position: absolute;
@@ -134,7 +134,7 @@ body {
 	width: calc(27.3vw);
 	height: calc(1.9vh);
 	top: calc(29.5vh);
-	left: calc(72.5vw);
+	left: calc(72.8vw);
 }
 
 .leftTab {
@@ -389,5 +389,114 @@ body {
 
 .baseVoyYellow {
 	background-color: #FFCC66;
+	color: #000000;
+}
+
+.voyBlue {
+	color: #99CCFF;
+}
+
+.baseVoyBlue {
+	background-color: #99CCFF;
+	color: #000000;
+}
+
+.voyGrey {
+	color: #7A86A0;
+}
+
+.voyGray {
+	color: #7A86A0;
+}
+
+.baseVoyGray {
+	background-color: #7A86A0;
+	color: #000000;
+}
+
+.baseVoyGrey {
+	background-color: #7A86A0;
+	color: #000000;
+}
+
+.nemBlue {
+	color: #6A79EE;
+}
+
+.baseNemBlue {
+	background-color: #6A79EE;
+	color: #000000;
+}
+/* */
+.nemLightBlue {
+	color: #BCC9F6;
+}
+
+.baseNemLightBlue {
+	background-color: #BCC9F6;
+	color: #000000;
+}
+
+.baseNemPurple {
+	background-color: #C6ACD3;
+	color: #000000;
+}
+
+.baseNemPurple {
+	background-color: #C6ACD3;
+	color: #000000;
+}
+
+.nemTan {
+	color: #CCB7A2;
+}
+
+.baseNemTan {
+	background-color: #CCB7A2;
+	color: #000000;
+}
+
+.nemLightTan {
+	color: #E9CD9E;
+}
+
+.baseNemLightTan {
+	background-color: #E9CD9E;
+	color: #000000;
+}
+
+.nemBrown {
+	color: #A7644A;
+}
+
+.baseNemBrown {
+	background-color: #A7644A;
+	color: #000000;
+}
+
+.nemYellow {
+	color: #F4F6E8;
+}
+
+.baseNemYellow {
+	background-color: #F4F6E8;
+	color: #000000;
+}
+
+.nemGreen {
+	color: #99B4AF;
+}
+
+.baseNemGreen {
+	background-color: #99B4AF;
+	color: #000000;
+}
+
+.nemRoyalBlue {
+	color: #0946EF;
+}
+
+.baseNemRoyalBlue {
+	background-color: #0946EF;
 	color: #000000;
 }
