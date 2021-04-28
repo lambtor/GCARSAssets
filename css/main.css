@@ -500,3 +500,12 @@ body {
 	background-color: #0946EF;
 	color: #000000;
 }
+
+.nemOrange {
+	color: #E28B2C;
+}
+
+.baseNemOrange {
+	background-color: #E28B2C;
+	color: #000000;
+}
