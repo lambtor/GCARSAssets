@@ -1,4 +1,4 @@
-# GCARS Assets
+# LCARS Assets
 Fonts, CSS, colors for replicating an LCARS interface with html<br>
 <br>
 The most accurate font for LCARS is Swiss911 Ultra Compressed BT.  While many places online have this available for free download, and it seems to be free to use for personal use, it is not necessarily open source.<br>
