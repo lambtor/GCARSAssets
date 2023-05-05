@@ -102,3 +102,10 @@ button 3 tan / universal tan:
 
 universal purple:
 204,174,220   #CCAEDC
+
+/* TNG BRIDGE COLORS */
+walls, standing consoles:
+back wall tan		#CAB88C
+doors				#99958C
+inner door edges	#797271
+darker tan			#BCA474
